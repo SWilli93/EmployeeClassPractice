@@ -1,0 +1,14 @@
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/bin/Debug/net8.0/EmployeeClassPractice
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/bin/Debug/net8.0/EmployeeClassPractice.deps.json
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/bin/Debug/net8.0/EmployeeClassPractice.runtimeconfig.json
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/bin/Debug/net8.0/EmployeeClassPractice.dll
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/bin/Debug/net8.0/EmployeeClassPractice.pdb
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/obj/Debug/net8.0/EmployeeClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/obj/Debug/net8.0/EmployeeClassPractice.AssemblyInfoInputs.cache
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/obj/Debug/net8.0/EmployeeClassPractice.AssemblyInfo.cs
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/obj/Debug/net8.0/EmployeeClassPractice.csproj.CoreCompileInputs.cache
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/obj/Debug/net8.0/EmployeeClassPractice.dll
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/obj/Debug/net8.0/refint/EmployeeClassPractice.dll
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/obj/Debug/net8.0/EmployeeClassPractice.pdb
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/obj/Debug/net8.0/EmployeeClassPractice.genruntimeconfig.cache
+/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/obj/Debug/net8.0/ref/EmployeeClassPractice.dll
