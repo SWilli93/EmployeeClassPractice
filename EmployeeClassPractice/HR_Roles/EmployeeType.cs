@@ -1,6 +1,6 @@
 namespace EmployeeClassPractice;
 
-public enum EmployeeType
+enum EmployeeType
 {
     Sales,
     Manager,

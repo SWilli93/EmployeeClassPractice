@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XI3h76OKFT5hjHDGlLugfai4Rkh3dzrAZTE/YGQRdgYKe5AKSJwgKs9X56JwOFwAyOJyv+cxM8Zeg5mXIRo0oA==",
+  "dgSpecHash": "i2V7PSiS/rSlfXjz9bSTgMR4mUWiSMPIdAkcYybkrrRiQIGNLC5f48zDJzGMnhR7YJvpaZJgBZFQ+UOMWUibsg==",
   "success": true,
   "projectFilePath": "/Users/scottwilliams/RiderProjects/EmployeeClassPractice/EmployeeClassPractice/EmployeeClassPractice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/scottwilliams/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
